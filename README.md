@@ -1,4 +1,4 @@
-## Create New Schema Name "ticket"
+## Create New Schema Name "tickets"
 Import file tickets.sql to your schema. 
 
 ## Available Scripts
